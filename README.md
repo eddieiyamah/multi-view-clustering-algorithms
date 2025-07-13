@@ -1,8 +1,7 @@
-# awesome multi-view clustering
-Collections for state-of-the-art (SOTA), novel multi-view clustering methods (papers, codes and datasets)
+# Multi-view clustering and Deep multi-view clustering
+Personal up-to-date collection for state-of-the-art (SOTA), novel surface and deep multi-view clustering methods (papers, codes and datasets), including distributed (Federated) methods.
 
-We are looking forward for other participants to share their papers and codes. If interested, please contanct <wangsiwei13@nudt.edu.cn>.
-
+Forked from Siwei Wang's comprehensive repo -> https://github.com/wangsiwei2010/awesome-multi-view-clustering 
 ##  Table of Contents
 - [Surveys](#jump1) 
 - [Papers and Codes](#jump2)
@@ -14,10 +13,10 @@ We are looking forward for other participants to share their papers and codes. I
     - [Binary Multi-view Clustering](#jump25)
     - [Ensemble Multi-view Clustering](#jump27)
     - [Scalable Multi-view Clustering](#jump28)
-    - [Evolutionary Multi-view Clustering](#jump29)
+    - [Evolutionary Multi-view Clustering](#jump9)
+    - [Federated Multi-view Clustering](#jump10)
 - [Benchmark Datasets](#jump3)
     - [Oringinal Datasets](#jump31)
-    - [Kernelized Datasets](#jump32)
 
 ---
 
@@ -150,7 +149,6 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 36. 2023: Tensorized Adaptive Deep Multi-view Subspace Clustering[<a href="https://github.com/YanghangZheng-GDUT/Tensorized-Adaptive-Deep-Multi-view-Subspace-Clustering" target="_blank">Code</a>]
 
-
 ### <span id="jump24">Deep Incomplete Multi-view Clustering</span> 
 1. NeurIPS 2019: CPM-Nets: Cross Partial Multi-View Networks[<a href= "https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/hanmenghan/CPM_Nets" target="_blank">Code</a>]
 2. TIP 2020: Generative Partial Multi-View Clustering[<a href= "https://arxiv.org/abs/2003.13088" target="_blank">Paper</a>] [<a href="https://github.com/IMKBLE/PVC-GAN" target="_blank">Code</a>]
@@ -184,10 +182,13 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 
 
-
 ### <span id="jump9"> Evolutionary Multi-view Clustering</span> 
 1. Applied Soft Computing 2021: An Evolutionary Many-objective Approach to Multiview Clustering Using Feature and Relational Data [Paper](https://doi.org/10.1016/j.asoc.2021.107425) [code](https://github.com/adanjoga/mvmc)
 
+### <span id="jump10"> Federated Multi-view Clustering</span> 
+1.  ACM MM2023: Federated Deep Multi-View Clustering with Global Self-Supervision [<a href= "https://arxiv.org/pdf/2309.13697" target="_blank">Paper</a>] [<a href="https://github.com/5Martina5/FCUIF" target="_blank">Code</a>]
+
+2.  IF 2024: A novel Federated Multi-view Clustering method for Unaligned and Incomplete Data Fusion [<a href= "https://www.sciencedirect.com/science/article/abs/pii/S1566253524001350" target="_blank">Paper</a>] [<a href="https://github.com/5Martina5/FCUIF" target="_blank">Code</a>]
 
 
 ---
@@ -215,19 +216,4 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 | mfeat           | 2000    | 6     | 10       | http://archive.ics.uci.edu/ml/datasets/Multiple+Features                                                                                                      |                                             |   |   |
 | aloi            | 110250  | 8     | 1000     | http://elki.dbs.ifi.lmu.de/wiki/DataSets/MultiView                                                                                                            |                                             |   |   |
 
-### <span id="jump32">Kernelized Datasets</span>
-1. The following kernelized datasets are created by our team. For more information, you can ask <wangsiwei13@nudt.edu.cn> for help.
-[address](https://pan.baidu.com/s/1sOpNOG_3BlNPoxhwLKbUEQ) （code）y44e 
-
-If you use our code or datasets, please cite our with the following bibtex code :
-```
-@inproceedings{wang2019multi,
-  title={Multi-view clustering via late fusion alignment maximization},
-  author={Wang, Siwei and Liu, Xinwang and Zhu, En and Tang, Chang and Liu, Jiyuan and Hu, Jingtao and Xia, Jingyuan and Yin, Jianping},
-  booktitle={Proceedings of the 28th International Joint Conference on Artificial Intelligence},
-  pages={3778--3784},
-  year={2019},
-  organization={AAAI Press}
-}
-```
 
