@@ -189,6 +189,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 1.  ACM MM2023: Federated Deep Multi-View Clustering with Global Self-Supervision [<a href= "https://arxiv.org/pdf/2309.13697" target="_blank">Paper</a>] [<a href="https://github.com/5Martina5/FCUIF" target="_blank">Code</a>]
 
 2.  IF 2024: A novel Federated Multi-view Clustering method for Unaligned and Incomplete Data Fusion [<a href= "https://www.sciencedirect.com/science/article/abs/pii/S1566253524001350" target="_blank">Paper</a>] [<a href="https://github.com/5Martina5/FCUIF" target="_blank">Code</a>]
+3.  NeurIPS 2024: Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views [<a href= "https://proceedings.neurips.cc/paper_files/paper/2024/file/412fb8623bf8b6d56fb6285ea295447e-Paper-Conference.pdf#page=15.28" target="_blank">Paper</a>] [<a href="https://github.com/5Martina5/FMCSC" target="_blank">Code</a>]
 
 
 ---
