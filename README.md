@@ -196,13 +196,13 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ## <span id="jump3">Benchmark Datasets</span>
 ### <span id="jump31">Oringinal Datasets</span>
-1. It contains seven widely-used multi-view datasets: Handwritten (HW), Caltech-7/20, BBCsports, Nuswide, ORL and Webkb. Released by Baidu Service.
-[address](https://pan.baidu.com/s/1hG2zL40RxVaJ_p53gBM7kA) （code）gaih
+1. It contains seven widely-used multi-view datasets: Handwritten (HW), Caltech-7/20, BBCsports, Nuswide, ORL and Webkb.
+2. If some of the links to the datasets below don't work, access them via this repo [Repo](https://github.com/yeqinglee/mvdata.git) 
 
 
 | Name of dataset | Samples | Views | Clusters | Original   location                                                                                                                                           |                                             |   |   |
 |-----------------|---------|-------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---|---|
-| Handwritten     | 2000    | 6     | 10       |                                                                                                                                                               |                                             |   |   |
+| Handwritten     | 2000    | 6     | 10       |  https://github.com/yeqinglee/mvdata.git                                                                                                                                                             |                                             |   |   |
 | Caltech-7       | 1474    | 6     | 7        | http://www.vision.caltech.edu/Image_Datasets/Caltech101/                                                                                                      |                                             |   |   |
 | Caltech-20      | 2386    | 6     | 20       | http://www.vision.caltech.edu/Image_Datasets/Caltech101/                                                                                                      |                                             |   |   |
 | BBCsports       | 3183    | 2     | 5        | http://mlg.ucd.ie/datasets/segment.html                                                                                                                       |                                             |   |   |
