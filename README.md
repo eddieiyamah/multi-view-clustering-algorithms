@@ -1,7 +1,7 @@
 # Multi-view clustering and Deep multi-view clustering
 Personal up-to-date collection for state-of-the-art (SOTA), novel surface and deep multi-view clustering methods (papers, codes and datasets), including distributed (Federated) methods.
 
-Forked from Siwei Wang's comprehensive repo -> https://github.com/wangsiwei2010/awesome-multi-view-clustering 
+Forked from Siwei Wang's comprehensive repo [Repo](https://github.com/wangsiwei2010/awesome-multi-view-clustering) 
 ##  Table of Contents
 - [Surveys](#jump1) 
 - [Papers and Codes](#jump2)
